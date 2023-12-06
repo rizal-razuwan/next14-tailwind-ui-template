@@ -1,9 +1,7 @@
 ## Description
 
 <div>
-   <video width="480" height="240" poster="/public/poster.png" controls>
-      <source src="https://cdn.discordapp.com/attachments/959038004939337728/1181967953244205107/nextjs14-tailwindUI.mp4?ex=6582fc6f&is=6570876f&hm=902a8681a70ee688950fe119decb6da9fef51e2a49164d6a506f3abab3fa476b&" type="video/mp4">
-   </video>
+      <img src="https://cdn.discordapp.com/attachments/959038004939337728/1181972315253252148/nextjs14.gif" type="gif" />
 </div>
 
 This is NextJs 14 Tailwind UI template.Simple starter template for NextJs 14 and Tailwind UI.
