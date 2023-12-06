@@ -2,7 +2,7 @@
 
 echo "hi....standard nextjs scripts started default : pnpm"
 
-if [ -d .node_modules ]; then
+if [ -d ./node_modules ]; then
   echo "...directory exists"
   echo "...skipping installations"
   pnpm dev

@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Description
+
+<div>
+   <video width="480" height="240" poster="/public/poster.png" controls>
+      <source src="https://cdn.discordapp.com/attachments/959038004939337728/1181967953244205107/nextjs14-tailwindUI.mp4?ex=6582fc6f&is=6570876f&hm=902a8681a70ee688950fe119decb6da9fef51e2a49164d6a506f3abab3fa476b&" type="video/mp4">
+   </video>
+</div>
+
+This is NextJs 14 Tailwind UI template.Simple starter template for NextJs 14 and Tailwind UI.
+
+- Next Js : 14.0.3
+- headlessui/react : 1.7.17
+- tailwindcss : 3.3.6
 
 ## Getting Started
 
@@ -16,9 +28,14 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+or u can script that using pnpm default
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```bash
+# for mac or linux, give permissions to scripts
+chmod +x ./next.sh
+# then run
+./next.sh
+```
 
 ## Learn More
 
@@ -28,6 +45,10 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+- Rapidly build modern websites without ever leaving your HTML [ Tailwindcss](https://tailwindcss.com/)
+
+- By the makers of Tailwind CSS [ Build your next idea even faster.](https://tailwindui.com/)
 
 ## Deploy on Vercel
 
